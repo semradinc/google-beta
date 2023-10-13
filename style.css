@@ -1,0 +1,17 @@
+.head {
+    width: 351;
+    height: 113;
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    font-variant: normal;
+    border-collapse: separate;
+    border-spacing: 2px;
+    line-height: normal;
+    float: left;
+}
